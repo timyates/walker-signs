@@ -95,7 +95,7 @@ html, body {
     8% { opacity: 1;
          -webkit-animation-timing-function: ease-out; }
     17% { opacity: 1 }
-    25% { opacity: 0 }
+    85% { opacity: 0 }
     100% { opacity: 0 }
 }
 @-moz-keyframes imageAnimation {
@@ -104,7 +104,7 @@ html, body {
     8% { opacity: 1;
          -moz-animation-timing-function: ease-out; }
     17% { opacity: 1 }
-    25% { opacity: 0 }
+    85% { opacity: 0 }
     100% { opacity: 0 }
 }
 @-o-keyframes imageAnimation {
@@ -113,7 +113,7 @@ html, body {
     8% { opacity: 1;
          -o-animation-timing-function: ease-out; }
     17% { opacity: 1 }
-    25% { opacity: 0 }
+    85% { opacity: 0 }
     100% { opacity: 0 }
 }
 @-ms-keyframes imageAnimation {
@@ -122,7 +122,7 @@ html, body {
     8% { opacity: 1;
          -ms-animation-timing-function: ease-out; }
     17% { opacity: 1 }
-    25% { opacity: 0 }
+    85% { opacity: 0 }
     100% { opacity: 0 }
 }
 @keyframes imageAnimation {
@@ -131,7 +131,7 @@ html, body {
     8% { opacity: 1;
          animation-timing-function: ease-out; }
     17% { opacity: 1 }
-    25% { opacity: 0 }
+    85% { opacity: 0 }
     100% { opacity: 0 }
 }
 /* Show at least something when animations not supported */
